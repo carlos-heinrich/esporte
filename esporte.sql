@@ -6,6 +6,8 @@
 -- Tempo de geração: 01-Ago-2023 às 15:00
 -- Versão do servidor: 10.4.27-MariaDB
 -- versão do PHP: 8.2.0
+CREATE database esporte;
+use esporte;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;

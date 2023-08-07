@@ -2,12 +2,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Meu Site de Notícias</title>
-    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <title>OlímpicoExpress</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
     <div class="header">
-        <h1>Meu Site de Notícias</h1>
+        <h1>OlímpicoExpress</h1>
     </div>
     <div class="container">
         <?php
